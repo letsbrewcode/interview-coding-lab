@@ -1,7 +1,7 @@
 # Coding Problems
 
-Number of problems: 2
-Time: 45 mins
+`Number of problems : 2`</br>
+`Time : 45 mins`</br>
 
 ### Problem 1
 
