@@ -21,7 +21,7 @@ You are given two binary trees. You have to find out if the leaves of these two 
 Consider an array of length n consisting of numbers. Find a index of any number that is strictly greater than previous and next number. So essentially you have to return the index i 
 where `arr[i - 1] < arr[i] < arr[i + 1]`. There may be many such numbers. In that case return the index of any such number.</br>
 
-You can imagine the values outside the bounds of array as -\infty. So `arr[-1] = arr[n] = -\infty`
+You can imagine the values outside the bounds of array as -infinity. So `arr[-1] = arr[n] = -infinity`
 
 > Example 1</br>
 `Input: arr = [1, 3, 2, 5, 7, 9, 8]`</br>
