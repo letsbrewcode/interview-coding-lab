@@ -8,8 +8,8 @@
 3. Once you are done writing code, copy it to an IDE and execute it. Check for what errors come during execution.</br>
 4. Fix your code and repeat the process. Keep a count of number of mistakes that were made. Objective is to reduce these errors.</br>
 
-Number of problems: 2</br>
-Time: 45 mins
+#### Number of problems: 2</br>
+#### Time: 45 mins
 
 ### [Go to problems](https://github.com/letsbrewcode/interview-coding-lab/blob/master/lab-3/problems.md)
 
