@@ -1,4 +1,4 @@
-# Lab 3
+# Coding Lab 3
 
 ## Rules</br>
 1. Don't use IDE. Write psuedocode and/or code in a text editor that can support syntax highlighting but not more. You can use sublime or nodepad++.</br>
