@@ -16,8 +16,6 @@ You are given two binary trees. You have to find out if the leaves of these two 
  - Write a method that returns True if the leaves of trees form same sequence, else it returns False
  - What is the time and space complexity of your code?
 
-</br>
-
 ### Problem 2
 
 Consider an array of length n consisting of numbers. Find a index of any number that is strictly greater than previous and next number. So essentially you have to return the index i 
