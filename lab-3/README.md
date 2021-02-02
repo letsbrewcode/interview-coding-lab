@@ -1,6 +1,7 @@
 # Lab 3
 </br>
-## Rules
+
+## Rules</br>
 1. Don't use IDE. Write psuedocode and/or code in a text editor that can support syntax highlighting but not more. You can use sublime or nodepad++.</br>
 2. Don't execute your code till you are done. One of the main purpose of this exercise it to develop practice of writing code that is </br>
    a. Syntactically correct</br>
