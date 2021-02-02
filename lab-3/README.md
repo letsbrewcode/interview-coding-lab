@@ -12,7 +12,6 @@
 ### Number of questions: 2
 ### Time: 45 mins
 </br>
-</br>
 
 ## Problem 1
 
