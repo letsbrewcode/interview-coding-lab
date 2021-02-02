@@ -1,7 +1,5 @@
 # Mock Interview - Lab 3
-
-# Mock Interview - Lab 3
-
+</br>
 ## Rules
 1. Don't use IDE. Write psuedocode and/or code in a text editor that can support syntax highlighting but not more. You can use sublime or nodepad++.
 2. Don't execute your code till you are done. One of the main purpose of this exercise it to develop practice of writing code that is 
@@ -10,10 +8,11 @@
 3. Once you are done writing code, copy it to an IDE and execute it. Check for what errors come during execution.
 4. Fix your code and repeat the process. Keep a count of number of mistakes that were made. Objective is to reduce these errors.
 
-# Number of questions: 2
-## Time: 45 mins
+### Number of questions: 2
+### Time: 45 mins
 </br>
 </br>
+
 ## Problem 1
 
 You are given two binary trees. You have to find out if the leaves of these two trees form a similar sequence.</br> For reference, consider following examples</br>
@@ -29,6 +28,7 @@ You are given two binary trees. You have to find out if the leaves of these two 
 
 </br>
 </br>
+
 ## Problem 2
 
 Consider an array of length n consisting of numbers. Find a index of any number that is strictly greater than previous and next number. So essentially you have to return the index i 
