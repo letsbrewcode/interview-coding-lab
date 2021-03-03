@@ -22,7 +22,7 @@ FreqStack has two functions:
 
 If two elements have the same frequency then the element closest to the top of the stack is removed and returned.
 >`Example 1`</br>
-`Command            Stack          Result`</br>
+`Command               Stack         Result`</br>
 `f = FreqStack()        []          []`</br>
 `f.push(5)              []          [5]`</br>
 `f.push(7)              []          [5,7]`</br>
